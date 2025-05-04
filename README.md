@@ -127,5 +127,3 @@ Enhance every aspect of your Hypixel Skyblock gameplay with powerful tools, auto
 🎯 Made for serious players. Built with performance in mind.
 
 ---
-
-Would you like this formatted as a **live web page**, **GitHub README**, or **in-game help GUI**?
